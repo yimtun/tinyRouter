@@ -1,0 +1,7 @@
+{
+  "endpoints":["https://x.x.x.x:yyyy"],
+  "etcd_cert": "/opt/a-etcd-client.crt",
+  "etcd_cert_key": "/opt/b-etcd-client.key",
+  "etcd_ca": "/opt/c-ca.crt"
+}
+

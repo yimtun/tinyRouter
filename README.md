@@ -40,7 +40,7 @@ this a little different from the official plan
 
 ## State machine for calico manage pod subnet 
 
-
+....
 
 
 

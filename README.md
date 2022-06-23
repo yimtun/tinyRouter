@@ -13,6 +13,14 @@ this a little different from the official plan
 
 
 
+
+
+tinyRouter will support hardware router later
+
+
+
+
+
 ## Physical Network traffic 
 
 

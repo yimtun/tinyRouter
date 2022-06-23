@@ -7,6 +7,10 @@ auto add or del static route for pod subent by watching  calico's etcd
 tinyRouter is default gateway for all kubernetes nodes
 
 
+
+## Physical Network traffic 
+
+
 <img width="1016" alt="image" src="https://user-images.githubusercontent.com/47879545/174999103-a26d94e5-57e6-44e3-9898-7d0b324390b4.png">
 
 
@@ -17,7 +21,7 @@ tinyRouter is default gateway for all kubernetes nodes
 
 
 
-## Network traffic 
+## Pod Network traffic 
 
 
 

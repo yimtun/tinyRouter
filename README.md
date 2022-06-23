@@ -7,6 +7,11 @@ auto add or del static route for pod subent by watching  calico's etcd
 tinyRouter is default gateway for all kubernetes nodes
 
 
+A little different from the official plan
+
+> https://projectcalico.docs.tigera.io/archive/v3.21/reference/architecture/design/l3-interconnect-fabric#bgp-only-interconnect-fabrics
+
+
 
 ## Physical Network traffic 
 

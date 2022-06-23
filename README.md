@@ -31,3 +31,16 @@ this a little different from the official plan
 
 
 <img width="1052" alt="image" src="https://user-images.githubusercontent.com/47879545/175005422-f7b293ab-b3ea-404f-a628-3327c2f0be4e.png">
+
+
+
+
+# theoretical basis
+
+
+## State machine for calico manage pod subnet 
+
+
+
+
+

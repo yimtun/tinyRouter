@@ -1,6 +1,6 @@
 # tinyRouter
 
-calico full bgp on L3  but not use  BGP Route Reflector and  not use Global BGP  peer 
+you  can run kubernetes cluster whit calico full bgp on L3  but not use  BGP Route Reflector and  not use Global BGP  peer 
 
 auto add or del static route for pod subent by watching  calico's etcd
 
